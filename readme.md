@@ -29,7 +29,7 @@ TangibleTownPlanningはボード上のボックスを操作することによっ
 * Unity Hub を[こちら](https://unity3d.com/jp/get-unity/download)からインストールします。 
 * Unity Hub とは、Unityのお好きなバージョンをインストールして起動することのできるソフトウェアです。 
 * Unity Hubを起動し、左のサイドバーからインストール → 右上のボタンからエディターをインストール をクリックします。 
-![unityhub.png](https://boostnote.io/api/teams/7yZ8388r9/files/e62f8221d7c18dd31b2699791a88e93b7e1b38bd423f0455d590497511eeb217-unityhub.png)
+![unityhub.png](https://github.com/rin-tani/test/blob/main/unityhub.png)
 
 ### 有償アセットについて
 #### ArUcoServer 及び VR_Client は、下記の有償アセットを使用しています。したがって、ArUcoServer 及び VR_Client の使用に際し、下記のアセットを購入し、インポートする必要があります。
@@ -41,7 +41,7 @@ TangibleTownPlanningはボード上のボックスを操作することによっ
 * GitHubの配布ページから zipファイルをダウンロードします。
 * ダウンロードしたzipファイルを展開します。
 * Unity Hub 画面右上の開くを押し、展開したフォルダを選択します。
-![unityhubp.png](https://boostnote.io/api/teams/7yZ8388r9/files/88c5b8f04838417cefb56771589abc987d460a5de43f948424d5d18368b7ee92-unityhubp.png)
+![unityhubp.png](https://github.com/rin-tani/test/blob/main/unityhubp.png)
 
 * ArUcoServer 及び VR_Client それぞれのウインドウが開いたら完了です。
 
@@ -64,7 +64,7 @@ TangibleTownPlanningはボード上のボックスを操作することによっ
 ![asSim.png](https://github.com/rin-tani/test/blob/main/asSim.png)
 
 * VR_ClientウインドウGame画面上で、ArUcoServerで配置したボックスに対応した事物が配置されていることを確認します。
-![vrcl.png](https://boostnote.io/api/teams/7yZ8388r9/files/7e57ac8223f8ea936180372aa327d8236cf55638ad188d7e4dc495bf9324da04-vrcl.png)
+![vrcl.png](https://github.com/rin-tani/test/blob/main/vrcl.png)
 # 
 
 ### フライスルー
