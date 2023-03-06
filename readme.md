@@ -61,7 +61,7 @@ TangibleTownPlanningはボード上のボックスを操作することによっ
 ## 機能解説
 ### 事物の配置
 * ArUcoServerウインドウの Game 画面上で、右側に配置された数字の書かれたボックスをドラッグし、中央のボード上に配置します。
-![asSim.png](https://boostnote.io/api/teams/7yZ8388r9/files/8fd8a2344ca31a4b86849cce3aa2efd348553febeb734bd286d2e24d38754f45-asSim.png)
+![asSim.png](https://github.com/rin-tani/test/blob/main/asSim.png)
 
 * VR_ClientウインドウGame画面上で、ArUcoServerで配置したボックスに対応した事物が配置されていることを確認します。
 ![vrcl.png](https://boostnote.io/api/teams/7yZ8388r9/files/7e57ac8223f8ea936180372aa327d8236cf55638ad188d7e4dc495bf9324da04-vrcl.png)
